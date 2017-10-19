@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{82FCC6B2-02FD-4A8B-A590-E1DBC0724912}|Default">
+  <MonoDevelop.Ide.ItemProperties.icc-manager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jenkinsfile">
+    <Files>
+      <File FileName="icc-manager/Program.cs" Line="26" Column="2" />
+      <File FileName="icc-manager/Dockerfile" Line="7" Column="35" />
+      <File FileName="Jenkinsfile" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
